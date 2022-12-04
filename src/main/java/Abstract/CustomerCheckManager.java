@@ -1,7 +1,7 @@
 package Abstract;
 import Entities.Customer;
 
-public class CustomerCheckManager implements ICustomerCheckService {
+public abstract class CustomerCheckManager implements ICustomerCheckService {
 
     @Override
     public boolean CheckIfRealPerson(Customer customer) {

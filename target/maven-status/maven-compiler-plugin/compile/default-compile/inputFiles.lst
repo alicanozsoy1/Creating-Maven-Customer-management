@@ -1,8 +1,8 @@
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Abstract\CustomerCheckManager.java
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Concrete\NeroCustomerManager.java
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Abstract\ICustomerCheckService.java
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Abstract\IEntity.java
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Abstract\BaseCustomerManager.java
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Abstract\ICustomerService.java
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Entities\Customer.java
-C:\Users\alica\OneDrive\Masaüstü\javaProjects\odev2\src\main\java\Concrete\StarbucksCustomerManager.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Abstract\ICustomerService.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Abstract\CustomerCheckManager.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Abstract\IEntity.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Abstract\BaseCustomerManager.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Abstract\ICustomerCheckService.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Concrete\StarbucksCustomerManager.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Entities\Customer.java
+C:\Users\alica\OneDrive\Masaüstü\javaProjects\MavenCustomerManagement\src\main\java\Concrete\NeroCustomerManager.java
